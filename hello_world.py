@@ -1,3 +1,4 @@
 print ("Hello World!")
-print ("hello from feature")
+print ("Hello from feature")
+print ("Hello from release")
 
